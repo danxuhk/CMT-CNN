@@ -6,5 +6,6 @@ The code has been tested under the configurations of Ubuntu 14.04, MATLAB 2015b 
 ## Cite CMT-CNN
 Please consider citing the paper if you use our code:
 <p>@article{zhang2016faster,<br />&nbsp; &nbsp; title={Is Faster R-CNN Doing Well for Pedestrian Detection?},<br />&nbsp; &nbsp; author={Zhang, Liliang and Lin, Liang and Liang, Xiaodan and He, Kaiming},<br />&nbsp; &nbsp; journal={arXiv preprint arXiv:1607.07032},<br />&nbsp; &nbsp; year={2016}<br />}</p>
+
 ## Requirements
 
