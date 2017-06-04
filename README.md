@@ -1,2 +1,1 @@
-# CMT-CNN
-Learning Cross-Modal Deep Representations for Robust Pedestrian Detection
+# Learning Cross-Modal Deep Representations for Robust Pedestrian Detection
