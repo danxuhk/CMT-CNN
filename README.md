@@ -12,3 +12,5 @@ Please consider citing our paper if the code is helpful in your research work:
 }</pre>
 ## Requirements
 Please first download and install this modified caffe version for CMT-CNN, and download the trained model and network definition file from
+
+More detailed training and testing code will be made publicly available soon ...
