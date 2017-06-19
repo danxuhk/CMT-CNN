@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Caffe for Faster R-CNN
 
 Caffe fork that supports Fast**er** R-CNN, forked from [BLVC/caffe](https://github.com/BVLC/caffe) on June 27th, 2015.
@@ -18,3 +19,18 @@ Caffe fork that supports Fast**er** R-CNN, forked from [BLVC/caffe](https://gith
 ### Known issues for Windows:
 0.	If not using VS 2013, you need to re-build the solution in .\Library\leveldb. Then copy the built leveldb.lib to .\x64\Release_Mex.
 0.	If you are not using OpenCV 2.4.9, copy the corresponding opencv dll files to .\x64\Release_Mex.
+=======
+# Learning Cross-Modal Deep Representations for Robust Pedestrian Detection
+By Dan Xu, Wanli Ouyang, Elisa Ricci, Xiaogang Wang and Nicu Sebe
+## Introduction
+CMT-CNN is a pedestrian detection approach asscoiated to an arxiv submission https://arxiv.org/abs/1704.02431 which is accepted at CVPR 2017. The code is implemented with Caffe and has been tested under the configurations of Ubuntu 14.04, MATLAB 2015b and CUDA 8.0.
+## Cite CMT-CNN
+Please consider citing our paper if the code is helpful in your research work:
+<pre>@inproceedings{xu2017learning,
+  title={Learning Cross-Modal Deep Representations for Robust Pedestrian Detection},
+  author={Xu, Dan and Ouyang, Wanli and Ricci, Elisa and Wang, Xiaogang and Sebe, Nicu},
+  journal={CVPR},
+  year={2017}
+}</pre>
+## Requirements
+>>>>>>> 660c7ede5b5e916f6b2490a4ede4cf647ab60b2a
