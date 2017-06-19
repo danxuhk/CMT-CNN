@@ -11,4 +11,4 @@ Please consider citing our paper if the code is helpful in your research work:
   year={2017}
 }</pre>
 ## Requirements
-Please download the trained model and network definition file from 
+Please first download and install the caffe version of CMT-CNN, and download the trained model and network definition file from
