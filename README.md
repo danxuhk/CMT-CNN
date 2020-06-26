@@ -1,7 +1,7 @@
 # Learning Cross-Modal Deep Representations for Robust Pedestrian Detection
 By Dan Xu, Wanli Ouyang, Elisa Ricci, Xiaogang Wang and Nicu Sebe
 <p align="center">
-  <img src="Teaser.jpg" width="800"/>
+  <img src="Teaser.jpg" width="600"/>
 </p>
 ## Introduction
 CMT-CNN is a pedestrian detection approach asscoiated to an arxiv submission https://arxiv.org/abs/1704.02431 which is accepted at CVPR 2017. The code is implemented with Caffe and has been tested under the configurations of Ubuntu 14.04, MATLAB 2015b and CUDA 8.0.
